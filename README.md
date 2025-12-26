@@ -13,76 +13,101 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🎓 **B.Tech in Computer Science Engineering**  
-  *Kakinada Institute of Engineering & Technology (JNTUK)*  
+  Kakinada Institute of Engineering & Technology (JNTUK)  
   **CGPA:** 7.85 / 10  
 
-- 🧠 Strong foundation in **Data Structures, Algorithms, and Core CS fundamentals**
+- 🧠 Strong foundation in **Data Structures, Algorithms, and Core Computer Science**
 
-- 💻 Passionate about building **scalable, maintainable software systems**
+- 💻 Passionate about building **scalable, reliable, and maintainable software systems**
 
 - 🌍 **Open to relocation** | Actively preparing for **SDE-1 roles**
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Skills & Tools
 
-**Programming Languages**
-- C, C++
-- Java
-- Python
-- SQL (MySQL)
-
-**Core CS & Engineering**
-- Data Structures & Algorithms
-- Time & Space Complexity Analysis
-- Problem Solving & Debugging
-- Object-Oriented Programming
-- Git & Version Control
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
 ---
 
-### 💼 Internship Experience
+### 🧠 Core Computer Science
+<p align="left">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" alt="DSA" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/source-code.png" alt="Problem Solving" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/class.png" alt="OOP" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/code.png" alt="Time & Space Complexity" width="40" height="40"/>
+</p>
+
+---
+
+### ⚙️ Tools & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/console.png" alt="CLI" width="40" height="40"/>
+</p>
+
+---
+
+### 🧪 Development Practices
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/debugging.png" alt="Debugging" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/test-passed.png" alt="Testing" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/document.png" alt="Documentation" width="40" height="40"/>
+</p>
+
+---
+
+## 💼 Internship Experience
 
 **Junior Developer Intern**  
 *K-Hub, IIIT Hyderabad* | **Jun 2024 – Aug 2025**
 
 - Developed and maintained **Python scripts** for internal tools and automation
-- Converted functional requirements into **5–7 production-ready code deliverables**
-- Debugged and validated code to improve correctness and reliability
+- Converted functional requirements into **5–7 working code deliverables**
+- Debugged issues and improved code correctness through testing and validation
 - Collaborated with **4–6 developers** using Git-based workflows
-- Authored **technical documentation** for implemented features
+- Wrote **technical documentation** for implemented features
 
 ---
 
-### 🧩 Projects
+## 🧩 Projects
 
-#### 🔐 Heaptruffle – Security Analysis & Automation Tool
+### 🔐 Heaptruffle – Security Analysis & Automation Tool
 **Tech Stack:** Python, Linux, CLI  
 
-- Worked on analyzing application behavior to identify **potential security vulnerabilities**
+- Analyzed application behavior to identify **potential security vulnerabilities**
 - Executed **10+ automated scan runs** and processed structured outputs
 - Documented findings for review and validation
-- Gained hands-on exposure to **automation, system behavior, and secure coding practices**
+- Improved understanding of **automation, system behavior, and secure coding**
 
-#### ⚙️ Python Automation & Data Processing
+### ⚙️ Python Automation & Data Processing
 - Built scripts for **data cleaning, transformation, and report generation**
-- Automated repetitive tasks using file handling and control structures
+- Automated repetitive tasks using file handling and control flow
 - Focused on **modular, readable, and reusable code**
 
 ---
 
-### 🧠 Coding & Problem Solving
+## 🧠 Coding & Problem Solving
 
-- Strong grasp of **DSA concepts** and practical applications
-- Experience solving problems on competitive programming platforms
-- Comfortable reasoning about **edge cases and performance trade-offs**
+- Strong understanding of **DSA concepts**
+- Experience reasoning about **edge cases and performance trade-offs**
+- Familiar with competitive programming platforms
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 - 📊 *Data Analytics with Python* — NPTEL (IIT Roorkee)
 - 🤖 *Foundations of Modern Machine Learning* — IIIT Hyderabad
@@ -90,14 +115,14 @@
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 - 🌍 **Global Rank 6020** — TCS CodeVita Season 12
 - 🥇 **Winner** — Design Masters Contest, Toastmasters International
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/shaik-mohammad-ali-abbas" target="_blank">
@@ -110,7 +135,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaik-abbas&show_icons=true&locale=en&layout=compact" />
